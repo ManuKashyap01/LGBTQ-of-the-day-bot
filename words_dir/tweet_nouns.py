@@ -296,6 +296,10 @@ nouns = [
     'nose',
     'toe',
     'tooth',
+    'kidney',
+    'lungs',
+    'stomach',
+    'intestine',
 
     # insect
     'ant 🐜',
